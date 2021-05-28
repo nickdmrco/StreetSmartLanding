@@ -331,13 +331,13 @@ header {
 }  */
 
 .top .photo-slide {
-	max-width: 400px;
+	max-width: 350px;
 	margin: auto;
 	padding-bottom: 50px;
 }
 
 .top .photo-slide img {
-	width: 400px;
+	width: 350px;
 	height: auto;
 }
 
