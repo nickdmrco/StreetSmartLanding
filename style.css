@@ -55,6 +55,7 @@ ul li {
 #goimg {
 	height: 650px;
 }
+
 .navbar-default .navbar-toggle {
 	border-color: #FFF;
 }
@@ -260,14 +261,24 @@ header {
 	background-size: cover;
 }
 
+/* .container {
+	/* Background color */
+	/* background-color: rgba(0, 0, 0, 0.3); */
+	/* You can use gradient background color such as
+    background: linear-gradient(rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.1) 100%); */
+	/* Curved corners */
+	/* border-bottom-left-radius: 50% 40%;
+	border-bottom-right-radius: 50% 40%;
+}  */
+
 .top .photo-slide {
-	max-width: 252px;
+	max-width: 400px;
 	margin: auto;
 	padding-bottom: 50px;
 }
 
 .top .photo-slide img {
-	width: 252px;
+	width: 400px;
 	height: auto;
 }
 
@@ -775,7 +786,9 @@ header {
 	-webkit-transform: translateY(-100px);
 }
 
-.team .title h5 {}
+/* .team .title h5 {
+	
+} */
 
 /* =========================================
    10. Section Price                 
